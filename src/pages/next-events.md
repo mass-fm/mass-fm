@@ -10,9 +10,9 @@ layout: ../layouts/Layout.astro
 | ------ | ------ | 
     
 Spookathon returns, at the Haunted Mansion    
--  
+\
 This time we invite local talents from MASS, Call Now, Hook and Small Black Dots.    
-  
+\
 Inviting the ever Impressive Basic Moves affiliate Penelope, flying in from Lisbon with her bag of bombs strong enough to rock the foundations!  
   
    
