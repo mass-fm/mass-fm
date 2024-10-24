@@ -4,18 +4,14 @@ title: Nice Tat Astro Template
 ---
 <!-- Markdown Preview - https://dillinger.io/ -->
 
-# Nice Tat Astro Template
-
-[using this template](/how-to-use)
-
-[youtube](https://www.youtube.com/watch?v=sEyHnHjhlr4)
-
+# mass.fm
+/
+[soundcloud](https://soundcloud.com/massmusic_fm)
+/
 [instagram](https://www.instagram.com/massmusic_fm/)
-
-[onlyfans](/onlyfans)
-
-[twitter](https://twitter.com/Casey)
-
-[contact](/contact)
-
+/
 [next events](/next-events)
+/
+[onlyfans](/onlyfans)
+/
+[contact](/contact)
