@@ -5,10 +5,11 @@ layout: ../layouts/Layout.astro
 
 | Date | Thu, 31 Oct 2024 |  
 | ------ | ------ |  
-\
+
 | Venue | TBA - secret location (Barcelona) |  
-| ------ | ------ | 
-\  
+| ------ | ------ |   
+
+\
 Spookathon returns, at the Haunted Mansion    
 \
 This time we invite local talents from MASS, Call Now, Hook and Small Black Dots.    
