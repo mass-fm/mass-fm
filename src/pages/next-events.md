@@ -4,7 +4,9 @@ layout: ../layouts/Layout.astro
 <!-- Markdown Preview - https://dillinger.io/ -->
 
 | Date | Thu, 31 Oct 2024 |  
+| ------ | ------ |  
 | Venue | TBA - secret location (Barcelona) |  
+    
   
 Spookathon returns, at the Haunted Mansion
   
